@@ -1,4 +1,4 @@
-module github.com/FlowingSPDG/dathost-go
+module github.com/mrubio7/dathost-go
 
 go 1.22
 
